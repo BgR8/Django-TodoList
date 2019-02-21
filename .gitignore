@@ -1,0 +1,8 @@
+.vscode
+db.sqlite3
+
+djangotodoapp/__pycache__/*
+todo/__pycache__/*
+
+todo/migrations/*
+!todo/migrations/__init__.py
